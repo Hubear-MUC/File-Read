@@ -23,7 +23,7 @@ Changes:
 
 Version 0.3
 
-The file name is not hardcoded anymore to "d.d", not it can be given as an
+The file name is not hardcoded anymore to "d.d", now it can be given as an
 argument when invoking the program.
 If no file name is given, the program aborts without reading in and showing
 file content.
